@@ -4,4 +4,4 @@
 
 ### Image
 
-![Logo of markdown](/images/pngwing.png)
+<!___ ![Logo of markdown](/images/pngwing.png)
