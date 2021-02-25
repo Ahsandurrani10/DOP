@@ -4,4 +4,4 @@
 
 ### Image
 
-![Logo of markdown](D:\OutOfTheBox\Git\image\pngwing.com)
+![Logo of markdown](/images/pngwing.png)
