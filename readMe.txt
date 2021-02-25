@@ -9,3 +9,10 @@ BRANCH:
     git checkout master
     git merge master (for merging new branch to master)
     
+Working with Remote:
+    git push -u origin master
+setup username, useremail and password:
+    git config --global user.name "Ahsan"
+
+git pull origin master
+git push
