@@ -19,3 +19,13 @@
     1. Item 1a
     1. Item 2b
     1. Item 3c
+
+### Link
+[Google](https://www.google.com/webhp?authuser=1)
+
+### Blockquotes
+As Quaid said:
+    > Work, Work and Work
+
+### Inline Code
+I think you should use an `<addr>` element here instead.
