@@ -7,3 +7,5 @@ BRANCH:
     git add .
     git commit -m "first commit on new branch"
     git checkout master
+    git merge master (for merging new branch to master)
+    
