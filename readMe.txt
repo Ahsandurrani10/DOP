@@ -16,3 +16,10 @@ setup username, useremail and password:
 
 git pull origin master
 git push
+
+PULL:
+    git pull is one of many commands that claim the responsibility of 'syncing' remote content. 
+    The git remote command is used to specify what remote endpoints the syncing commands will 
+    operate on.
+PUSH:
+    The git push command is used to upload content to a remote repository.
