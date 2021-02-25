@@ -1,4 +1,3 @@
-# Hi    
+## Feb 25, 2021    
 
-
-# Hi
+# Learn git and github
